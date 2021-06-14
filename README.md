@@ -11,4 +11,4 @@ INSERT INTO users(admin, pasword)
 VALUES ('admin', 'pasik')
 
 3)
-DROP TABLE "users"
+DROP TABLE users
