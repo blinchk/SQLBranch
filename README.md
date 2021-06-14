@@ -1,9 +1,9 @@
 1)
 CREATE TABLE users(
-	ID int not null PRIMARY KEY,
+	ID int null PRIMARY KEY,
         phonenumber int,
-	admin varchar(50),
-	pasword varchar(50)
+	admin varchar('50'),
+	pasword varchar('50')
 )
 
 2)
