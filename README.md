@@ -1,7 +1,7 @@
 1)
 CREATE TABLE users(
-	ID int null PRIMARY KEY,
-  phonenumber int,
+	ID int PRIMARY KEY,
+  	phonenumber int,
 	admin varchar('50'),
 	pasword varchar('50')
 )
