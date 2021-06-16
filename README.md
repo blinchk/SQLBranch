@@ -4,11 +4,11 @@ CREATE TABLE users(
   	phonenumber int,
 	admin varchar('50'),
 	pasword varchar('50')
-)
+);
 
 2)
 INSERT users(admin, pasword)
-VALUES ("admin", "pasik")
+VALUES ("admin", "pasik");
 
 3)
-DROP TABLE "users"
+DROP TABLE users;
