@@ -8,7 +8,7 @@ CREATE TABLE users(
 
 2)
 INSERT users(admin, pasword)
-VALUES (admin, pasik)
+VALUES ("admin", "pasik")
 
 3)
 DROP TABLE users;
